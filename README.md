@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm just a guy determined to learn how to code. 
+
+🌱 Currently learning **C++**, **Java**, and **C**
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I love (hate) League of Legends!
 <!--
 **cephalopodsrule/cephalopodsrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
