@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I'm just a guy determined to learn how to code. 
+Working on a few projects right now:
+Huffman encoder
 
 🌱 Currently learning **C++**, **Java**, and **C**
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I love (hate) League of Legends!
+⚡ TFT Phenom
 <!--
 **cephalopodsrule/cephalopodsrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
