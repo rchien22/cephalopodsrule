@@ -3,7 +3,7 @@
 Working on a few projects right now:
 Huffman encoder
 
-🌱 Currently learning **C++**, **Java**, and **C**
+🌱 **C++**, **Java**, and **C**
 
 😄 Pronouns: he/him
 
