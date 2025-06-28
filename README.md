@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-Working on a few projects right now:
-Huffman encoder
-
 🌱 **C++**, **Java**, and **C**
 
 😄 Pronouns: he/him
