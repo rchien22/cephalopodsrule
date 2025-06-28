@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 **C++**, **Java**, and **C**
+🌱 University of Rochester
 
 😄 Pronouns: he/him
 
